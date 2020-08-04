@@ -1,0 +1,7 @@
+:root {
+  font-size: 40%;
+}
+
+#page-landing {
+  background-color: var(--color-primary);
+}
