@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="images/readme-images/home-desktop.png" width="100%">
+  <img alt="Frontend" src="images/readme-images/menu-desktop.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
