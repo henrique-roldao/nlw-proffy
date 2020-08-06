@@ -2,7 +2,7 @@
     <img alt="Proffy" src="images/landing.svg" width="350px" />
 </h1>
 
-<h4 align="center">
+<h1 align="center">
   🚀 Next Level Week #2
 </h4>
 
