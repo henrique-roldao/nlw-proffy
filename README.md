@@ -1,15 +1,21 @@
-[![N|Solid](https://www.freelogoservices.com/api/main/images/1j+ojFVDOMkX9Wytexe43D6kifKCqRRHnR3IwXs1M3EMoAJtlSkrgfFi...PU9)](https://github.com/henrique-roldao)
+<h1 align="center">
+    <img alt="Proffy" src="images/logo.svg" width="250px" />
+</h1>
 
-# Projeto Proffy!
+<h4 align="center">
+  🚀 Next Level Week #2
+</h4>
 
-  > Técnologias usadas no projeto:
-  - HTML
-  - CSS
-  - Javascript
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/henrique-roldao/NLW-Proffy">
 
-### Semana Next Level Week
-> Dia 01 - Criamos a estrutura da home page, deixando responsiva
-<img src="images/readme-images/menu-desktop.png" alt="Home-Desktop" width="1100"/> 
-<img src="images/readme-images/menu-mobile.png" alt="Home-Mobile" width="350"/>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/henrique-roldao/NLW-Proffy">
+  
+  <a href="https://github.com/henrique-roldao/omni-stack-week-11/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/henrique-roldao/NLW-Proffy">
+  </a>
 
-
+  <a href="https://github.com/apsampaio/semana-omnistack-11/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/henrique-roldao/NLW-Proffy">
+  </a>
+</p>
