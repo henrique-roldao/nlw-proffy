@@ -19,3 +19,26 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/henrique-roldao/NLW-Proffy">
   </a>
 </p>
+
+<p align="center">
+  <a href="#rocket-tecnologias"> :rocket: Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="Frontend" src="frontend/src/assets/prev.png" width="100%">
+</p>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [CSS](https://www.w3schools.com/css/)
+- [Javascript](https://www.javascript.com/)
+
+## 💻 Projeto
+
+Esperando pelo fim do projeto para poder comentar sobre.
