@@ -10,3 +10,4 @@
 ### Semana Next Level Week
 > Dia 01 - Criamos a estrutura da home page, deixando responsiva
 <img src="images/readme-images/menu-desktop.png" alt="Home-Desktop" width="350"/>
+<img src="images/readme-images/menu-mobile.png" alt="Home-Desktop" width="350"/>
