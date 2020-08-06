@@ -9,4 +9,4 @@
 
 ### Semana Next Level Week
 > Dia 01 - Criamos a estrutura da home page, deixando responsiva
-![Home Desktop](https://github.com/henrique-roldao/NLW-Proffy/blob/master/images/readme-images/menu-desktop.png)
+<img src="images/readme-images/menu-desktop.png" alt="Home-Desktop" width="200"/>
