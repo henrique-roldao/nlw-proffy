@@ -28,7 +28,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="images/readme-images/menu-desktop.png" width="100%">
+  <img alt="Amostra" src="public/images/readme-images/amostra.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
 - [CSS](https://www.w3schools.com/css/)
 - [Javascript](https://www.javascript.com/)
-
+- [NodeJs](https://nodejs.org/en/)
+- [SQLite](https://www.sqlite.org/index.html)
 ## 💻 Projeto
-
-Esperando pelo fim do projeto para poder comentar sobre.
+NLW #2 foi uma maratona incrível de aprendizado sobre a stack JS, criamos uma aplicação onde professores cadastram seus horários para aulas particulares, e alunos procuram as aulas específicas que preferem em dias e horários especificos.
