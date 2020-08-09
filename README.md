@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" src="images/landing.svg" width="350px" />
+    <img alt="Proffy" src="public/images/readme-images/logo.png"/>
 </h1>
 
 <h1 align="center">
